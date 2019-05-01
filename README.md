@@ -5,4 +5,4 @@ Open code sample at [TransactionJobs class](https://github.com/hitallocavas/thor
 
 To run the project, execute:
 - >mvn package
-- >java jar [link to your target folder with generated .jar]
+- >java -jar [link to your target folder with generated .jar]
